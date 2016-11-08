@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myDemoOpenGLXamarin", "myDemoOpenGLXamarin\myDemoOpenGLXamarin.csproj", "{8C38AC50-CB67-45E2-BE23-AEB12741E89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Release|iPhone.Build.0 = Release|iPhone
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{8C38AC50-CB67-45E2-BE23-AEB12741E89E}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
